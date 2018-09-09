@@ -1,0 +1,12 @@
+{
+  "default":{
+    "database_type":"yourdbtype",
+    "server": "yourdbhost",
+    "database_name": "yourdbname",
+    "username": "yourdbuser",
+    "password": "yourdbpassword",
+    "port":"yourdbport",
+    "prefix":"",
+    "charset":"utf8"
+  }
+}

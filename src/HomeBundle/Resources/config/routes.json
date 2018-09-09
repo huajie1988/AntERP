@@ -1,0 +1,7 @@
+{
+  "index": {
+    "method": "GET",
+    "path": "/",
+    "target":"indexAction@HomeBundle/Controller/IndexController"
+  }
+}
